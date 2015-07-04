@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml", "Xml\Xml.csproj", "{4BA79B07-78FB-4B97-8670-9976C5566805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlWizard", "XmlWizard\XmlWizard.csproj", "{6059A9B1-F981-4FB0-8E73-ECE6FB2236EF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XmlWizardSetup", "XmlWizardSetup\XmlWizardSetup.vdproj", "{BAB8529C-3538-4AAF-A936-69D862582FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA79B07-78FB-4B97-8670-9976C5566805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA79B07-78FB-4B97-8670-9976C5566805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA79B07-78FB-4B97-8670-9976C5566805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA79B07-78FB-4B97-8670-9976C5566805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6059A9B1-F981-4FB0-8E73-ECE6FB2236EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6059A9B1-F981-4FB0-8E73-ECE6FB2236EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6059A9B1-F981-4FB0-8E73-ECE6FB2236EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6059A9B1-F981-4FB0-8E73-ECE6FB2236EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB8529C-3538-4AAF-A936-69D862582FDE}.Debug|Any CPU.ActiveCfg = Debug
+		{BAB8529C-3538-4AAF-A936-69D862582FDE}.Release|Any CPU.ActiveCfg = Release
+		{BAB8529C-3538-4AAF-A936-69D862582FDE}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
